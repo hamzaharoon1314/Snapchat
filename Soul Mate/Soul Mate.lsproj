@@ -3,7 +3,7 @@
     "document_id": "ISWIeJxFX2wPB4iID8-S",
     "original_document_id": "ISWIeJxFX2wPB4iID8-S",
     "version": "26",
-    "lastChanged": "1607570025660",
+    "lastChanged": "1607574714890",
     "preview": "icon.png",
     "videoPreview": "preview.mp4",
     "videoPreviewUpdateTime": "",
@@ -415,7 +415,11 @@
             }
         },
         "InspectorController": {
-            "selection": ""
+            "selection": {
+                "objects": [
+                    "1605320426862270:226463"
+                ]
+            }
         },
         "EffectsController": {
             "1": "",
