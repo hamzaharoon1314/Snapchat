@@ -4,9 +4,9 @@
   </a>
 </p>
 
-# SnapChat
+# Snapchat
 A repository for scripts, templates, and existing filters.
 
-# My SnapChat
-You can add me on [SnapChat](https://www.snapchat.com/add/yeetingmyself69)
+# My Snapchat
+You can add me on [Snapchat](https://www.snapchat.com/add/yeetingmyself69)
 - @yeetingmyself69
