@@ -1,0 +1,1104 @@
+{
+    "lens_id": "",
+    "document_id": "BFUyA_DwSHb8pOgpwuAS",
+    "original_document_id": "5IqyqZEys7DM03BIqS6d",
+    "version": "26",
+    "lastChanged": "1611277428593",
+    "preview": "icon.png",
+    "videoPreview": "preview.mp4",
+    "videoPreviewUpdateTime": "",
+    "isReadOnly": "false",
+    "isAutoSaved": "false",
+    "studioVersion": {
+        "createdWith": {
+            "type": "Public",
+            "major": "3",
+            "minor": "0",
+            "patch": "1",
+            "build": "0"
+        },
+        "lastSavedWith": {
+            "type": "Public",
+            "major": "3",
+            "minor": "3",
+            "patch": "3",
+            "build": "0"
+        }
+    },
+    "view": {
+        "ResourceUiComponent": {
+            "collapsedList": [
+                [
+                    [
+                        "Behavior"
+                    ],
+                    [
+                        "Cycle"
+                    ],
+                    [
+                        "Montserrat-Bold"
+                    ],
+                    [
+                        "Script"
+                    ],
+                    [
+                        "background"
+                    ]
+                ]
+            ]
+        },
+        "SceneTreeUiComponent": {
+            "collapsedList": [
+                [
+                    "1517446348227994:84813"
+                ]
+            ]
+        },
+        "MetaInfoUIComponent": {
+            "icon_hash": "c1b54dd01093c48081f274a958ba0c39",
+            "icon_path": "icon.png",
+            "hints": [
+                "lens_hint_open_your_mouth"
+            ],
+            "lens": "Most Likely to",
+            "applicability": "3",
+            "lens_descriptors": ""
+        },
+        "PreviewUiComponent": {
+            "preview_descriptor": {
+                "is_capture": "0",
+                "camera_type": "2"
+            },
+            "show_snap_ui": "true",
+            "show_sponsored_ui": "false",
+            "preview_images_project_config": {
+                "back_preview_id": "bundle:Preview\/Images\/Beach.jpg",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/Images\/Person 1.jpg",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "bundle:Preview\/Images\/Pavement\/Pavement.jpg",
+                "spectacles_preview_is_favorite": "false"
+            },
+            "preview_videos_project_config": {
+                "back_preview_id": "bundle:Preview\/Videos\/Beach.webm",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/Videos\/Open Mouth Person 5.webm",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "bundle:Preview\/Videos\/Climbing\/Climbing.webm",
+                "spectacles_preview_is_favorite": "false"
+            },
+            "preview_ie_project_config": {
+                "back_preview_id": "bundle:Preview\/InteractiveEnvironments\/Home",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/InteractiveEnvironments\/Home",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "bundle:Preview\/InteractiveEnvironments\/Home",
+                "spectacles_preview_is_favorite": "false"
+            }
+        },
+        "InspectorUiComponent": {
+            "collapsedList": [
+                [
+                    "1578438721409016:135904",
+                    "1610738467271649:119301"
+                ]
+            ]
+        },
+        "Material::UiComponent": {
+            "active_graph_asset": "-1:-1"
+        },
+        "Script::UiComponent": {
+            "active_graph_asset": "-1:-1"
+        }
+    },
+    "model": {
+        "IResourceManager": {
+            "list": [
+                {
+                    "resId": "1",
+                    "uid": "1:1",
+                    "name": "Camera Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "2",
+                    "uid": "2:2",
+                    "name": "Camera Input",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "11",
+                    "uid": "1578438609941880:135478",
+                    "name": "Files\/File4.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "24",
+                    "uid": "1598139621386461:98263",
+                    "name": "Files\/File29.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "26",
+                    "uid": "1610669421208341:436603",
+                    "name": "Files\/File33.ttf",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "30",
+                    "uid": "1610739416697426:320860",
+                    "name": "Files\/File43.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "31",
+                    "uid": "1611265768560853:20222",
+                    "name": "Files\/File47.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                }
+            ],
+            "MaterialUpdateManager": {
+                "unrecognizedMaterials": ""
+            }
+        },
+        "InspectorComponent": {
+            "Component": {
+                "EyeColorVisual": {
+                    "uidData": "",
+                    "generalData": ""
+                },
+                "FaceStretchVisual": {
+                    "uidsToFeatureNamesWithIntensity": ""
+                },
+                "ScreenTransform": {
+                    "uidData": [
+                        {
+                            "k": "1596161087957040:25541",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1610738855596110:189278",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1610738855615903:189413",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1610738926255427:208617",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1610738967140096:220150",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        }
+                    ],
+                    "generalData": ""
+                }
+            }
+        },
+        "RenderOrderComponent": {
+            "autoRenderOrder": {
+                "0": "1517446348227994:84813",
+                "1": "1517446348228144:84822",
+                "2": "1528843813151434:5126",
+                "3": "1578438721408754:135903",
+                "4": "1578438779137861:138421",
+                "5": "1596161087956823:25538",
+                "6": "1610738173252230:58830",
+                "7": "1610738855586203:189210",
+                "8": "1610738855595017:189276",
+                "9": "1610738855615724:189412",
+                "10": "1610738926231261:208348",
+                "11": "1610738967117267:219885"
+            }
+        },
+        "LayerComponent": {
+            "nextLayerId": "2",
+            "showOrthographicLayer": "true",
+            "layersInfo": [
+                {
+                    "layerId": "0",
+                    "layerName": "Default Layer",
+                    "layerMask": "1",
+                    "colorCode": "20"
+                },
+                {
+                    "layerId": "1",
+                    "layerName": "Orthographic Layer",
+                    "layerMask": "1048576",
+                    "colorCode": "21"
+                }
+            ]
+        },
+        "IFileManager": {
+            "pathes": [
+                {
+                    "k": "4",
+                    "v": "Files\/File4.js"
+                },
+                {
+                    "k": "29",
+                    "v": "Files\/File29.js"
+                },
+                {
+                    "k": "33",
+                    "v": "Files\/File33.ttf"
+                },
+                {
+                    "k": "43",
+                    "v": "Files\/File43.pvr"
+                },
+                {
+                    "k": "44",
+                    "v": "Files\/File44.png"
+                },
+                {
+                    "k": "45",
+                    "v": "Files\/File45.png"
+                },
+                {
+                    "k": "46",
+                    "v": "Files\/File46.pvr"
+                },
+                {
+                    "k": "47",
+                    "v": "Files\/File47.js"
+                }
+            ]
+        },
+        "WorldComponent": {
+            "sceneFile": "scene.scn",
+            "sceneType": "binaryScene"
+        }
+    },
+    "controller": {
+        "IResourceController": {
+            "public": {
+                "pathes": [
+                    {
+                        "k": "780",
+                        "v": "Cycle.js"
+                    },
+                    {
+                        "k": "969",
+                        "v": "Behavior.js"
+                    },
+                    {
+                        "k": "1010",
+                        "v": "Montserrat-Bold.ttf"
+                    },
+                    {
+                        "k": "1014",
+                        "v": "background.png"
+                    },
+                    {
+                        "k": "1015",
+                        "v": "Script.js"
+                    }
+                ],
+                "hashes": [
+                    {
+                        "k": "1",
+                        "v": "671afbc1d6810060ccbaac866a91cfa1"
+                    },
+                    {
+                        "k": "2",
+                        "v": "8e599835d0d45c5879eafb1f474469cd"
+                    },
+                    {
+                        "k": "779",
+                        "v": "59361291686fd7cebf3981836238abbb"
+                    },
+                    {
+                        "k": "780",
+                        "v": "73492568e4dc8f1f538e02add57c168b"
+                    },
+                    {
+                        "k": "782",
+                        "v": "54b5e21104a4a7f86b3d510596fdc27e"
+                    },
+                    {
+                        "k": "783",
+                        "v": "5f1208222490f840f9aa51ed04342a00"
+                    },
+                    {
+                        "k": "785",
+                        "v": "a09c1024e02b4bad78f4ecd2f54a54d4"
+                    },
+                    {
+                        "k": "786",
+                        "v": "4738536a9e4e92cf33d300f5b9845255"
+                    },
+                    {
+                        "k": "787",
+                        "v": "9abf7a61ceac380792ceae7afe354be8"
+                    },
+                    {
+                        "k": "788",
+                        "v": "024db787b2f8ccb013172af11d510a59"
+                    },
+                    {
+                        "k": "789",
+                        "v": "095483ce1723f8264fb8b729fdc685a1"
+                    },
+                    {
+                        "k": "790",
+                        "v": "d50d1b174a1c81f9ce28ad14b4b1fca9"
+                    },
+                    {
+                        "k": "791",
+                        "v": "22a12316933cc59125cf702923f92036"
+                    },
+                    {
+                        "k": "792",
+                        "v": "1c7d80410a43fd2c55195741c601c7b1"
+                    },
+                    {
+                        "k": "793",
+                        "v": "30eae5c21517567aa8fe132e4a0c5f13"
+                    },
+                    {
+                        "k": "794",
+                        "v": "aeed932ca233c7c5886fed4e8cc43291"
+                    },
+                    {
+                        "k": "795",
+                        "v": "03273e263de4b60dcd631a4df0d0ef2f"
+                    },
+                    {
+                        "k": "796",
+                        "v": "72858ea2310cebab79dfb73dbe206297"
+                    },
+                    {
+                        "k": "797",
+                        "v": "87721d9135a4e131f6f4e66f8de3aaee"
+                    },
+                    {
+                        "k": "798",
+                        "v": "4ba02f08098e1d7b5e9cb9b09f4b9887"
+                    },
+                    {
+                        "k": "799",
+                        "v": "7c95664cdd240bb05f90e63f40d11111"
+                    },
+                    {
+                        "k": "800",
+                        "v": "7f76bbe4182748384572a5284000ced3"
+                    },
+                    {
+                        "k": "801",
+                        "v": "ad0497831bb6d02a24c43b9d9327a89b"
+                    },
+                    {
+                        "k": "802",
+                        "v": "4b3f86bd4b7a22c426f3720f92a1147a"
+                    },
+                    {
+                        "k": "803",
+                        "v": "4a7cc7504fb057aaf39687cc33c57bc0"
+                    },
+                    {
+                        "k": "804",
+                        "v": "2b4a0d91643dd6a20451dbcff5b5f838"
+                    },
+                    {
+                        "k": "805",
+                        "v": "a545ce4c84a9a0de6f637826f334d8e9"
+                    },
+                    {
+                        "k": "806",
+                        "v": "e825e39a00c1a1ecdb7b56e84a6b6fe3"
+                    },
+                    {
+                        "k": "807",
+                        "v": "f58e6aa9311af4330e55a72bde9b2e1a"
+                    },
+                    {
+                        "k": "808",
+                        "v": "7f1ffede79c6ac0c9c2776efa439dff2"
+                    },
+                    {
+                        "k": "809",
+                        "v": "50cb6d40038fbb3d826c0f45836b609a"
+                    },
+                    {
+                        "k": "810",
+                        "v": "7ac4a13e9da8513590afc8771ea50e53"
+                    },
+                    {
+                        "k": "811",
+                        "v": "4f75f7a9083574d934b6543ef729c0fc"
+                    },
+                    {
+                        "k": "812",
+                        "v": "6c17958dbdc3bd4f1f0015644a181d29"
+                    },
+                    {
+                        "k": "813",
+                        "v": "cb6d7ec296073ec9396802452c677204"
+                    },
+                    {
+                        "k": "814",
+                        "v": "f4f87169075c077b612b5d17bf076fd2"
+                    },
+                    {
+                        "k": "815",
+                        "v": "8daf784ecfbc14ff74caa55cb3efc643"
+                    },
+                    {
+                        "k": "816",
+                        "v": "5a05ef0e605f13b1304a17b608e4479f"
+                    },
+                    {
+                        "k": "817",
+                        "v": "83619fc4fb3a11333618611d51a66f17"
+                    },
+                    {
+                        "k": "818",
+                        "v": "532d9afa3232e62c5965db3d97160c1c"
+                    },
+                    {
+                        "k": "928",
+                        "v": "f3646a9de83f3a24e19b03ca294ae274"
+                    },
+                    {
+                        "k": "929",
+                        "v": "f3d362a5c5321714c2a7098c95a2d472"
+                    },
+                    {
+                        "k": "930",
+                        "v": "558137abaf36206c1a2752d9a1781ccc"
+                    },
+                    {
+                        "k": "931",
+                        "v": "963c0e0d6cfcd2545c14f94683f4fdc1"
+                    },
+                    {
+                        "k": "932",
+                        "v": "9c52bba9cba8522e7b74a1d7e33369b2"
+                    },
+                    {
+                        "k": "933",
+                        "v": "2cf18e250b52b5bbaee605e03685db53"
+                    },
+                    {
+                        "k": "934",
+                        "v": "0867cf7a0453d8268da02f9b4fd50452"
+                    },
+                    {
+                        "k": "935",
+                        "v": "bfc93910a3619bd26f5ae9474eacc5c7"
+                    },
+                    {
+                        "k": "936",
+                        "v": "393d2383f4e4ba4d61f828ce10802523"
+                    },
+                    {
+                        "k": "937",
+                        "v": "2cc2808eebccac7803d832b7c92b7ddf"
+                    },
+                    {
+                        "k": "938",
+                        "v": "0bbb81156bea779b636a24c30be21bc5"
+                    },
+                    {
+                        "k": "939",
+                        "v": "2bb54a370aa4ebeef9535e83e83981a6"
+                    },
+                    {
+                        "k": "940",
+                        "v": "f0e40e08fe43a8b8a74f08296e8409c1"
+                    },
+                    {
+                        "k": "941",
+                        "v": "f4c240983124a9369c7b8ff6559a6734"
+                    },
+                    {
+                        "k": "942",
+                        "v": "34fc20bdb31bcbdfc071ce09b5d9e6b0"
+                    },
+                    {
+                        "k": "943",
+                        "v": "4d37ea87bef02d4a6a48575765f3fad2"
+                    },
+                    {
+                        "k": "944",
+                        "v": "431ad13766d953d25a19618ddf9b64e9"
+                    },
+                    {
+                        "k": "945",
+                        "v": "2d2db27560c988cdae3be3f7fb0322be"
+                    },
+                    {
+                        "k": "946",
+                        "v": "c3d0a6a0c509b9cb8b969f48dd41b3c4"
+                    },
+                    {
+                        "k": "947",
+                        "v": "bad8f17d287cd241747da1f5531db9a0"
+                    },
+                    {
+                        "k": "948",
+                        "v": "1af6233b64136a45c79b83d88e190958"
+                    },
+                    {
+                        "k": "949",
+                        "v": "6382c97d94c618f7f14a1b2b4a30059d"
+                    },
+                    {
+                        "k": "950",
+                        "v": "16c1b3ff0b4fc429f37a2a9ca508d9a2"
+                    },
+                    {
+                        "k": "951",
+                        "v": "69c81604868b549994f6969722be7d2a"
+                    },
+                    {
+                        "k": "952",
+                        "v": "4b9e696f597a68cd63395bd157bf0675"
+                    },
+                    {
+                        "k": "953",
+                        "v": "5a7e296d64f435a00008c87bdb28b7de"
+                    },
+                    {
+                        "k": "954",
+                        "v": "6ce2fcc308e14f2fbb9c9db8e2d4a323"
+                    },
+                    {
+                        "k": "955",
+                        "v": "b14ac7cbe01c44d0a44bc78cf2abed10"
+                    },
+                    {
+                        "k": "956",
+                        "v": "eb57430d1e2d8bd8ab5222d794c7acb6"
+                    },
+                    {
+                        "k": "957",
+                        "v": "2e27f91a54afb2a263b9cbeaa2f3fc23"
+                    },
+                    {
+                        "k": "958",
+                        "v": "a02391f6380467019adb4f4a5b38502a"
+                    },
+                    {
+                        "k": "959",
+                        "v": "ad7fecec2b4db1c0baeaa18f55fec77a"
+                    },
+                    {
+                        "k": "960",
+                        "v": "4ee87fc16ce3236da99b3779111e1ed9"
+                    },
+                    {
+                        "k": "961",
+                        "v": "ca241b48645dce9705844977119bb73d"
+                    },
+                    {
+                        "k": "962",
+                        "v": "7a01332f242b5a5419371c84691c87f6"
+                    },
+                    {
+                        "k": "963",
+                        "v": "e8872e8994fbe15c422e012c059d596d"
+                    },
+                    {
+                        "k": "964",
+                        "v": "8adee18966ef82171b317b18ca087de1"
+                    },
+                    {
+                        "k": "965",
+                        "v": "e8e33e6d8b40c46f0741ed0f63547c48"
+                    },
+                    {
+                        "k": "966",
+                        "v": "275346cb601212085de017d5221b119f"
+                    },
+                    {
+                        "k": "967",
+                        "v": "df813d51a2443fe0977959a4eb9c289a"
+                    },
+                    {
+                        "k": "968",
+                        "v": "55470a9de76e0d41f815c53d50b58086"
+                    },
+                    {
+                        "k": "969",
+                        "v": "28d340e48fb1e441f05af039a46534b2"
+                    },
+                    {
+                        "k": "970",
+                        "v": "58d35b3e3cb1b96425aa6ec0ed04a448"
+                    },
+                    {
+                        "k": "971",
+                        "v": "511c51833a806a3aaec86647f6e2d8ad"
+                    },
+                    {
+                        "k": "972",
+                        "v": "33a069d56aa20f71116de689b5cf1468"
+                    },
+                    {
+                        "k": "973",
+                        "v": "8faa7578b38760b086242f66655efef9"
+                    },
+                    {
+                        "k": "974",
+                        "v": "3ac176d98f4a61acabbcd613491e0700"
+                    },
+                    {
+                        "k": "975",
+                        "v": "da48af92d094dc72e56af5682e04db35"
+                    },
+                    {
+                        "k": "976",
+                        "v": "003e90e529d53b16897846f670d798cb"
+                    },
+                    {
+                        "k": "977",
+                        "v": "5f2f8c5764f55fffc72bbdf8b18041b7"
+                    },
+                    {
+                        "k": "978",
+                        "v": "6c8bcf9ba3066617254af7b949fa9657"
+                    },
+                    {
+                        "k": "979",
+                        "v": "cbf739bcbd137b0260d0fe701b5d9dbd"
+                    },
+                    {
+                        "k": "980",
+                        "v": "cf8cb93627f21ba2f7983522ed9ce3d2"
+                    },
+                    {
+                        "k": "981",
+                        "v": "e65a544ae697ae10862934f9ee004ee2"
+                    },
+                    {
+                        "k": "982",
+                        "v": "73a39ec59a86d47ece44a3fcc8fb8ad7"
+                    },
+                    {
+                        "k": "983",
+                        "v": "015d1abe68852ca16fdd4ab0185cf40c"
+                    },
+                    {
+                        "k": "984",
+                        "v": "e2d2a89e44a5490fb35132edd95fbaaa"
+                    },
+                    {
+                        "k": "985",
+                        "v": "fb783e4cc41c7a2c20acd317512a0223"
+                    },
+                    {
+                        "k": "986",
+                        "v": "a69dc0f5690df1427358ebc232d83be9"
+                    },
+                    {
+                        "k": "987",
+                        "v": "8d22f512fef0d4e1cfc387b1e4d05727"
+                    },
+                    {
+                        "k": "988",
+                        "v": "801977a63809e62593fca9f2f5da5585"
+                    },
+                    {
+                        "k": "989",
+                        "v": "68be091a541d5e2f9f462cbce0a63feb"
+                    },
+                    {
+                        "k": "990",
+                        "v": "113da5c3b075fe1fb38833837e4b7b5c"
+                    },
+                    {
+                        "k": "991",
+                        "v": "bc9f106e894df34a8e2fa133eadac6af"
+                    },
+                    {
+                        "k": "992",
+                        "v": "c2572e1ab1e1057c95811264fa60c88d"
+                    },
+                    {
+                        "k": "993",
+                        "v": "3776c29dfd9f4fd2c892b6e0559cfd88"
+                    },
+                    {
+                        "k": "994",
+                        "v": "20b3846dad2fc99bf0b7132932ab17b1"
+                    },
+                    {
+                        "k": "995",
+                        "v": "56a1aaede1af4c91dc09a9922613833f"
+                    },
+                    {
+                        "k": "996",
+                        "v": "8791ea3f3eca27b18016904eb2ded818"
+                    },
+                    {
+                        "k": "997",
+                        "v": "9c95845734fb3e3b9de322a0e87cc283"
+                    },
+                    {
+                        "k": "998",
+                        "v": "bc34b568c73fb06e5e137d515bb444d7"
+                    },
+                    {
+                        "k": "999",
+                        "v": "66d01ccdbef1e801189c6f19d3a1b972"
+                    },
+                    {
+                        "k": "1000",
+                        "v": "a08ced1ced20467d5725810268c705e9"
+                    },
+                    {
+                        "k": "1001",
+                        "v": "46d8cde2f06eb85a32425258ac9c30c1"
+                    },
+                    {
+                        "k": "1002",
+                        "v": "d95bfe4024febaeb5e825617027bc3b8"
+                    },
+                    {
+                        "k": "1003",
+                        "v": "8c3554cf96fef2a465e0a7059d191982"
+                    },
+                    {
+                        "k": "1004",
+                        "v": "3fe86dac91257e934c2d5eb0287f22c7"
+                    },
+                    {
+                        "k": "1005",
+                        "v": "80411f8dd5ebb1e66ce661a654f087fe"
+                    },
+                    {
+                        "k": "1006",
+                        "v": "7b00cdeadcb50eb8729ec7346789c93e"
+                    },
+                    {
+                        "k": "1009",
+                        "v": "58d35b3e3cb1b96425aa6ec0ed04a448"
+                    },
+                    {
+                        "k": "1010",
+                        "v": "ade91f473255991f410f61857696434b"
+                    },
+                    {
+                        "k": "1011",
+                        "v": "be8e516c4dfee94549e330e3875bf5c1"
+                    },
+                    {
+                        "k": "1012",
+                        "v": "59361291686fd7cebf3981836238abbb"
+                    },
+                    {
+                        "k": "1013",
+                        "v": "1a6e588e9689bea1db70e8037e19b9e9"
+                    },
+                    {
+                        "k": "1014",
+                        "v": "a5874f8ac7eacbb59cdc3a268682be5b"
+                    },
+                    {
+                        "k": "1015",
+                        "v": "59361291686fd7cebf3981836238abbb"
+                    }
+                ],
+                "publicState": {
+                    "tree": {
+                        "isFolder": "true",
+                        "lastModified": "2021-01-21T16:49:28",
+                        "name": "Public",
+                        "hash": "3e118dc89031d1f86e96eff625719b19",
+                        "children": [
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2021-01-15T14:35:29",
+                                "name": "Cycle.js",
+                                "hash": "73492568e4dc8f1f538e02add57c168b",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2021-01-14T19:09:55",
+                                "name": "Montserrat-Bold.ttf",
+                                "hash": "ade91f473255991f410f61857696434b",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-08-05T13:22:06",
+                                "name": "Behavior.js",
+                                "hash": "28d340e48fb1e441f05af039a46534b2",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2021-01-15T14:36:52",
+                                "name": "background.png",
+                                "hash": "a5874f8ac7eacbb59cdc3a268682be5b",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2021-01-14T13:26:46",
+                                "name": "Script.js",
+                                "hash": "59361291686fd7cebf3981836238abbb",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-07-30T21:56:29",
+                                "name": "folder.lock",
+                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                "children": ""
+                            }
+                        ]
+                    }
+                },
+                "complexResources": ""
+            },
+            "tree": {
+                "name": "",
+                "type": "0",
+                "subtype": "-1",
+                "resourceId": "-1",
+                "dependency": "0",
+                "uid": "-1:-1",
+                "fileId": "18446744073709551615",
+                "originalId": "18446744073709551615",
+                "publicId": "18446744073709551615",
+                "source": "",
+                "additional": "",
+                "resources": [
+                    {
+                        "name": "Render Target",
+                        "type": "1",
+                        "subtype": "1",
+                        "resourceId": "1",
+                        "dependency": "0",
+                        "uid": "1:1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "18446744073709551615",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Device Camera Texture",
+                        "type": "1",
+                        "subtype": "3",
+                        "resourceId": "2",
+                        "dependency": "0",
+                        "uid": "2:2",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "18446744073709551615",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Cycle",
+                        "type": "4",
+                        "subtype": "0",
+                        "resourceId": "11",
+                        "dependency": "0",
+                        "uid": "1578438609941880:135478",
+                        "fileId": "4",
+                        "originalId": "18446744073709551615",
+                        "publicId": "780",
+                        "source": "D:\/Documents\/SnapLens\/_Scripts\/texturechange_update.js",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Behavior",
+                        "type": "4",
+                        "subtype": "0",
+                        "resourceId": "24",
+                        "dependency": "0",
+                        "uid": "1598139621386461:98263",
+                        "fileId": "29",
+                        "originalId": "18446744073709551615",
+                        "publicId": "969",
+                        "source": "\/Applications\/Lens Studio.app\/Contents\/MacOS\/\/..\/Resources\/Studio3DResources.bundle\/\/Presets\/Scripts\/BehaviorScript.js",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Montserrat-Bold",
+                        "type": "13",
+                        "subtype": "0",
+                        "resourceId": "26",
+                        "dependency": "0",
+                        "uid": "1610669421208341:436603",
+                        "fileId": "33",
+                        "originalId": "18446744073709551615",
+                        "publicId": "1010",
+                        "source": "\/Users\/Ronnie\/Downloads\/Montserrat-Bold.ttf",
+                        "additional": ""
+                    },
+                    {
+                        "name": "background",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "30",
+                        "dependency": "0",
+                        "uid": "1610739416697426:320860",
+                        "fileId": "43",
+                        "originalId": "44",
+                        "publicId": "1014",
+                        "source": "\/Users\/Ronnie\/Downloads\/red1.png",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Script",
+                        "type": "4",
+                        "subtype": "0",
+                        "resourceId": "31",
+                        "dependency": "0",
+                        "uid": "1611265768560853:20222",
+                        "fileId": "47",
+                        "originalId": "18446744073709551615",
+                        "publicId": "1015",
+                        "source": "\/private\/var\/folders\/pt\/g5wx2yvj1f3bqkt_2q62v9hr0000gn\/T\/Lens Studio-hXaIiK\/\/system\/\/emergencyFiles\/emergencyJs.js",
+                        "additional": ""
+                    }
+                ]
+            }
+        },
+        "InspectorController": {
+            "selection": {
+                "objects": [
+                    "1578438779137861:138421"
+                ]
+            }
+        },
+        "EffectsController": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "10": "",
+            "11": "",
+            "12": "",
+            "13": "",
+            "14": "",
+            "15": "",
+            "16": "",
+            "17": "",
+            "18": "",
+            "19": "",
+            "20": "",
+            "22": "",
+            "23": "",
+            "24": "",
+            "25": "",
+            "26": "",
+            "27": "",
+            "28": ""
+        },
+        "ObjectPrefabController": {
+            "state": {
+                "objectToInfo": ""
+            },
+            "importInfo": ""
+        },
+        "Compression::IController": {
+            "compression_info": [
+                {
+                    "k": "1610739416697426:320860",
+                    "v": {
+                        "infos": {
+                            "originalSize": "43018",
+                            "compressedSize": "11397",
+                            "originalRAM": "1218000",
+                            "compressedRAM": "152656",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1"
+                            }
+                        },
+                        "uncompressed_file": "45",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "a5874f8ac7eacbb59cdc3a268682be5b",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "46"
+                            }
+                        ]
+                    }
+                }
+            ]
+        }
+    }
+}
